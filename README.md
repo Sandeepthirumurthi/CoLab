@@ -3,4 +3,4 @@
 # TASK 1: Prediction using Supervised ML i.e. Predict the percentage of a student based on the no. of study hours. (Task1_DataSet_scores.csv)
 # TASK 2: Prediction using Unsupervised ML i.e. From the given iris dataset, predict the optimum number of clusters and represent it visually. (Task2_DataSet_Iris.csv)
 # TASK 3: Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ i.e. try to find out the weak areas where you can work to make more profit. (Task3_DataSet_SampleSuperstore.csv)
-# TASK 4: Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ i.e. As a security/defense analyst, try to find out the hot zone of terrorism and what all security issues and insights you can derive by EDA? (Dataset is in the code)
+ TASK 4: Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’ i.e. As a security/defense analyst, try to find out the hot zone of terrorism and what all security issues and insights you can derive by EDA? (Dataset is in the code)
